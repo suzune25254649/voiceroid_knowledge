@@ -1,0 +1,10 @@
+--track0:XU•,0,500,5
+--track1:YU•,0,500,0
+--track2:k‚¦ˆÕ‚³,0,100,50
+
+n,l = math.modf(obj.time/0.2)
+
+if( rand(0,100,0,n) < obj.track2) then
+	obj.ox = obj.ox+rand(-obj.track0,obj.track0,0)
+	obj.oy = obj.oy+rand(-obj.track1,obj.track1,1)
+end
