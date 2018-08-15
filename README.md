@@ -33,4 +33,11 @@ aviutlフォルダ内の、scriptフォルダ内に配置すると使えるよ�
 Twitterハッシュタグで細かいネタをつぶやいてます。  
 https://twitter.com/hashtag/%E3%83%9C%E3%82%A4%E3%83%AD%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6?f=tweets&vertical=default&src=hash
 
+# 素材URL
+
+## 【背景素材】きまぐれアフター背景素材置き場
+https://s.webry.info/sp/k-after.at.webry.info/index.html
+改変、加工、商用利用、R18利用、動画利用など、もろもろフリーのアニメ調背景素材です。
+
+
 
