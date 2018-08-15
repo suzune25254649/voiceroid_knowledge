@@ -1,0 +1,12 @@
+--track0:ë¨Ç≥,0.1,100,20
+--track1:çÇÇ≥,0,1000,150
+--track2:äpìx,0,360,0
+--track3:Ç∏ÇÁÇµ,0,100,0
+l = math.floor(obj.totaltime / (10/obj.track0));
+l = obj.totaltime / l;
+n,l = math.modf(obj.time/l+obj.index*obj.track3/100)
+l = (l-0.5)*2
+l = (1-l*l)*obj.track1
+r = obj.track2*math.pi/180
+obj.ox = obj.ox+math.sin(r)*l
+obj.oy = obj.oy-math.cos(r)*l
