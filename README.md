@@ -41,6 +41,9 @@ aviutlフォルダ内の、scriptフォルダ内に配置すると使えるよ�
 
 フィニッシュのタイミングを合わせるのが簡単です。
 
+# whisperフォルダ
+ボイスの囁き化についてのノウハウです。
+
 # ノウハウ
 Twitterハッシュタグで細かいネタをつぶやいてます。  
 https://twitter.com/hashtag/%E3%83%9C%E3%82%A4%E3%83%AD%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6?f=tweets&vertical=default&src=hash
