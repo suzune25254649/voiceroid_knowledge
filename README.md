@@ -2,7 +2,7 @@
 ボイスロイド系ノウハウの公開
 
 # ダウンロードの仕方
-右上にある"Clone or download"をクリックし、"Download ZIP"を選んでください。
+右上にある"Code"をクリックし、"Download ZIP"を選んでください。
 
 # voicepresetフォルダ
 ボイスプリセットを置いてあります。  
